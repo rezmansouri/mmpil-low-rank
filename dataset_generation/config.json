@@ -1,0 +1,17 @@
+{
+    "data_time_format": "%Y%m%d_%H%M%S",
+    "flare_list_time_format": "%m/%d/%y %H:%M",
+    "observation_window": "12:00:00",
+    "prediction_window": "24:00:00",
+    "increment": "01:00:00",
+    "time_step": "00:12:00",
+    "lag": "00:00:00",
+    "ranked_classes": [
+        "C",
+        "M",
+        "X"
+    ],
+    "harpnum_noaa_ars_map_path": "harp_noaa_map.txt",
+    "flare_list_path": "sdo_goes_flares.csv",
+    "max_allowed_missing_time_step": 15
+}
